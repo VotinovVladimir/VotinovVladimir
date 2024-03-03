@@ -1,4 +1,4 @@
-<!--suppress HtmlDeprecatedAttribute -->
+
 <div align="center">
   <div>
     <a href="https://t.me/KirovVladimir">
@@ -32,3 +32,11 @@
 - Дополнительно: Maven, Git, Intellij Idea.
 
 <!-- 🏐 **Веду активный образ жизни** (тренажерный зал, бассейн). -->
+
+## 🧰 Инструменты
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/java.svg" alt="Java" height="48px"/>  &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/postgresql-colored.svg" alt="Postgre" height="48px"/>  &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/intellij-idea.svg" alt="Idea" height="48px"/>  &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/git-colored.svg" alt="Git" height="48px"/>  &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/html5-colored.svg" alt="HTML5" height="48px"/>  &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/css3-logo-svgrepo-com.svg" alt="CSS" height="48px"/>  &nbsp; &nbsp;
