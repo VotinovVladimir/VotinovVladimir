@@ -39,4 +39,4 @@
 <img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/intellij-idea.svg" alt="Idea" height="48px"/>  &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/git-colored.svg" alt="Git" height="48px"/>  &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/html5-colored.svg" alt="HTML5" height="48px"/>  &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/css3-logo-svgrepo-com.svg" alt="CSS" height="48px"/>  &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/VotinovVladimir/VotinovVladimir/main/icon/css-3.svg" alt="CSS" height="48px"/>  &nbsp; &nbsp;
