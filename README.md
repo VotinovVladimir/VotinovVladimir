@@ -19,7 +19,7 @@
 <i>"Будьте собой и не плывите по течению"</i>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A0%D0%B0%D0%B4+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%A0%D0%B0%D0%B4+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D0%B5%D0%B1%D1%8F!)](https://git.io/typing-svg)
 
 Я стремлюсь углубить свои знания и навыки в этой области и применять их для создания приложений. Обладаю высоким уровнем внимания к деталям и коммуникабельностью, что позволяет мне эффективно взаимодействовать с командой.
 
