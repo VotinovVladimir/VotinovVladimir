@@ -32,7 +32,7 @@
 
 - Языки программирования: C, C++, **Golang**
 - Базы данных: SQL
-- Дополнительно: Git, VSCode.
+- Дополнительно: Git, GoLand, VSCode.
 - Учусь в школе 21
 
 ![Codewars](https://github.r2v.ch/codewars?user=VladimirVotinovU&hide_clan=true&top_languages=true)
