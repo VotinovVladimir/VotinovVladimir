@@ -26,11 +26,11 @@
 </a> <br />
 <!--🛠 В настоящее время я работаю над проектом: [Домашняя бухгалтерия](https://github.com/VotinovVladimir/PersonalFinance) <br />
 📚 Активно изучаю Spring, чтобы расширить свои знания и умения в области программирования.<br />-->
-🎯 Осваиваю новую профессию **Разработчик**.<br />
+🎯 Осваиваю новую профессию **DevOps**.<br />
 
-![Codewars](https://github.r2v.ch/codewars?user=VladimirVotinovU&hide_clan=true&top_languages=true)
+<!--![Codewars](https://github.r2v.ch/codewars?user=VladimirVotinovU&hide_clan=true&top_languages=true) -->
 
-**курс на Stepik** Программирование на Golang
+
 
 
 
